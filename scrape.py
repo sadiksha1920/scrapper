@@ -1,3 +1,11 @@
+# git config --global user.name "sadiksha karki"
+
+#git init
+#git add .
+#git commit -m "your message"
+#create repository in github
+#copy paste git code from github
+
 import requests
 from bs4 import BeautifulSoup
 import json
